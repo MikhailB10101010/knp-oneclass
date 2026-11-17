@@ -1,0 +1,8 @@
+build/
+oneclass_runner
+__pycache__/
+*.npz
+demo_output.txt
+build_log.txt
+prototypes.csv
+samples.csv
